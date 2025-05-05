@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './index.css'
 import Quiz from './components/Quiz'
+import Result from './components/Result'
 
 function App() {
 
@@ -8,7 +9,7 @@ function App() {
     <div className="app-container">
      <h1>Quiz App</h1>
      <Quiz />
-     
+   
     </div>
   )
 }
