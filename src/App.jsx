@@ -1,7 +1,5 @@
-import { useState } from 'react'
 import './index.css'
 import Quiz from './components/Quiz'
-import Result from './components/Result'
 
 function App() {
 
